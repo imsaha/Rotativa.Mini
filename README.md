@@ -11,7 +11,7 @@ https://github.com/webgio/Rotativa
 1. Take the output file for Rotativa.Mini.dll and add referance in your project.
 2. Add Rotativa Exe File into your project
 
-
+```C#
            var rotativaPath = @"C:\Users\siraj\source\repos\Rotativa.Mini\Rotativa.Mini.Demo\Rotativa";
             var style = @"C:\Users\siraj\source\repos\Rotativa.Mini\Rotativa.Mini.Demo\Stylesheet1.css";
 
@@ -29,6 +29,7 @@ https://github.com/webgio/Rotativa
             var pdfData = RotativaMiniConverter.ConvertHtml(rotativaPath, options, fileHtml);
 
             File.WriteAllBytes("Test.pdf", pdfData);
+```
 
 
 You can little work arround to support all the path as relative path
