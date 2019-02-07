@@ -1,7 +1,7 @@
 # Rotativa.Mini 
 ### v1.0
 
-Rotativa.Mini is a extracted minified version of Rotativa library. It helps you to build pdf file out of html string and makes implementation simplier.
+Rotativa.Mini is a extracted minified version of Rotativa library. It helps you to build pdf file out of html string in any .NET flatform and makes implementation simplier.
 
 ### Here's link for rotativa 
 https://github.com/webgio/Rotativa
