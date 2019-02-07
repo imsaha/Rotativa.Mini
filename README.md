@@ -25,3 +25,6 @@ Rotativa.Mini is a extracted minified version of Rotativa library. It helps you 
             var pdfData = RotativaMiniConverter.ConvertHtml(rotativaPath, options, fileHtml);
 
             File.WriteAllBytes("Test.pdf", pdfData);
+
+
+You can little work arround to support all the path as relative path
