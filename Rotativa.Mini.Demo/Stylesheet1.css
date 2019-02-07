@@ -1,0 +1,22 @@
+﻿.ext{
+    background-color:red;
+    height:30px;
+    width:100%;
+}
+
+.footer{
+    min-height:30px;
+    height:60px;
+    width:100%;
+    background:#313131;
+    color:white;
+}
+
+.img{
+    max-height:300px;
+    max-width:300px;
+}
+
+table, tr, td, th, tbody, thead, tfoot {
+    page-break-inside: avoid !important;
+}
