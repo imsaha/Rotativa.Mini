@@ -3,6 +3,10 @@
 
 Rotativa.Mini is a extracted minified version of Rotativa library. It helps you to build pdf file out of html string and makes implementation simplier.
 
+### Here's link for rotativa 
+https://github.com/webgio/Rotativa
+
+
 ### How to use?
 1. Take the output file for Rotativa.Mini.dll and add referance in your project.
 2. Add Rotativa Exe File into your project
