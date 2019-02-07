@@ -8,8 +8,8 @@ https://github.com/webgio/Rotativa
 
 
 ### How to use?
-1. Take the output file for Rotativa.Mini.dll and add referance in your project.
-2. Add Rotativa Exe File into your project
+1. Take the output dll file (Rotativa.Mini.dll) and add referance in your project.
+2. Add Wkhtmltopdf.exe File into your project (you can see inside demo project)
 
 ```C#
            var rotativaPath = @"C:\Users\siraj\source\repos\Rotativa.Mini\Rotativa.Mini.Demo\Rotativa";
