@@ -33,4 +33,4 @@ https://github.com/webgio/Rotativa
 ```
 
 
-You can little work arround to support all the path as relative path
+You can little work around to support all the path as relative path
