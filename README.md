@@ -6,7 +6,7 @@ Rotativa.Mini is an extracted minified version of Rotativa library. It helps you
 ### Here's link for rotativa 
 https://github.com/webgio/Rotativa
 
-``` Install-Package Rotativa.Mini -Version 1.0.2  ```
+``` Install-Package Rotativa.Mini  ```
 
 ### How to use?
 1. Take the output dll file (Rotativa.Mini.dll) and add referance in your project.
