@@ -99,6 +99,16 @@ namespace Rotativa.Mini
         }
 
         /// <summary>
+        /// Set as Disable the intelligent shrinking 
+        /// </summary>
+        /// <returns></returns>
+        public RotativaMiniOptions DisableSmartShrinking()
+        {
+            IsDisableSmartShrinking = true;
+            return this;
+        }
+
+        /// <summary>
         /// Applies default footer if nothing is passed in parameter customHtmlUrl
         /// </summary>
         /// <param name="customHtmlUrl">Provide custom html</param>
