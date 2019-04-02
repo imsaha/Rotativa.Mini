@@ -87,6 +87,9 @@ namespace Rotativa.Mini
         [OptionFlag("--user-style-sheet")]
         internal string StyleSheetUrl;
 
+        [OptionFlag("--disable-smart-shrinking")]
+        internal bool IsDisableSmartShrinking;
+
         #endregion
 
         #region Header And Footer Options
